@@ -5,7 +5,9 @@
 
 思路一：
 
-数据来源（data resources）：实际气体数据和高精度方程导出的PVT数据
+数据来源（data resources）：
+实际气体数据和高精度方程导出的PVT数据
+水和空气在对应T下的物性参数以及含氢键有机物的基本物性数据（The Yaws handbook of physical properties for hydrocarbons -- Yaws, Carl L）
 
 优化对象：SRK方程（暂定）
 
